@@ -1,0 +1,218 @@
+{
+  "subscribers": [
+    {
+      "id": 1,
+      "date": "1. maj",
+      "number": "134"
+    },
+    {
+      "id": 2,
+      "date": "2. maj",
+      "number": "174"
+    },
+    {
+      "id": 3,
+      "date": "3. maj",
+      "number": "201"
+    },
+    {
+      "id": 4,
+      "date": "4. maj",
+      "number": "250"
+    },
+    {
+      "id": 5,
+      "date": "5. maj",
+      "number": "304"
+    },
+    {
+      "id": 6,
+      "date": "6. maj",
+      "number": "349"
+    },
+    {
+      "id": 7,
+      "date": "7. maj",
+      "number": "403"
+    },
+    {
+      "id": 8,
+      "date": "8. maj",
+      "number": "543"
+    },
+    {
+      "id": 9,
+      "date": "9. maj",
+      "number": "590"
+    },
+    {
+      "id": 10,
+      "date": "10. maj",
+      "number": "593"
+    },
+    {
+      "id": 11,
+      "date": "11. maj",
+      "number": "602"
+    },
+    {
+      "id": 12,
+      "date": "12. maj",
+      "number": "640"
+    },
+    {
+      "id": 13,
+      "date": "13. maj",
+      "number": "650"
+    },
+    {
+      "id": 14,
+      "date": "14. maj",
+      "number": "720"
+    },
+    {
+      "id": 15,
+      "date": "15. maj",
+      "number": "849"
+    }
+  ],
+  "fees": [
+    {
+      "id": 1,
+      "date": "1. maj",
+      "cost": "134"
+    },
+    {
+      "id": 2,
+      "date": "2. maj",
+      "cost": "174"
+    },
+    {
+      "id": 3,
+      "date": "3. maj",
+      "cost": "201"
+    },
+    {
+      "id": 4,
+      "date": "4. maj",
+      "cost": "250"
+    },
+    {
+      "id": 5,
+      "date": "5. maj",
+      "cost": "304"
+    },
+    {
+      "id": 6,
+      "date": "6. maj",
+      "cost": "349"
+    },
+    {
+      "id": 7,
+      "date": "7. maj",
+      "cost": "403"
+    },
+    {
+      "id": 8,
+      "date": "8. maj",
+      "cost": "543"
+    },
+    {
+      "id": 9,
+      "date": "9. maj",
+      "cost": "590"
+    },
+    {
+      "id": 10,
+      "date": "10. maj",
+      "cost": "593"
+    },
+    {
+      "id": 11,
+      "date": "11. maj",
+      "cost": "602"
+    },
+    {
+      "id": 12,
+      "date": "12. maj",
+      "cost": "640"
+    },
+    {
+      "id": 13,
+      "date": "13. maj",
+      "cost": "650"
+    },
+    {
+      "id": 14,
+      "date": "14. maj",
+      "cost": "720"
+    },
+    {
+      "id": 15,
+      "date": "15. maj",
+      "cost": "849"
+    }
+  ],
+  "monthlyrevenue": [
+    {
+      "id": 1,
+      "month": "january 2021",
+      "revenue": "5000"
+    },
+    {
+      "id": 2,
+      "month": "february 2021",
+      "revenue": "15000"
+    },
+    {
+      "id": 3,
+      "month": "march 2021",
+      "revenue": "50000"
+    },
+    {
+      "id": 4,
+      "month": "april 2021",
+      "revenue": "55000"
+    },
+    {
+      "id": 5,
+      "month": "may 2021",
+      "revenue": "59000"
+    },
+    {
+      "id": 6,
+      "month": "june 2021",
+      "revenue": "65000"
+    },
+    {
+      "id": 7,
+      "month": "july 2021",
+      "revenue": "75000"
+    },
+    {
+      "id": 8,
+      "month": "august 2021",
+      "revenue": "85000"
+    },
+    {
+      "id": 9,
+      "month": "september 2021",
+      "revenue": "95000"
+    },
+    {
+      "id": 10,
+      "month": "october 2021",
+      "revenue": "99000"
+    },
+    {
+      "id": 11,
+      "month": "november 2021",
+      "revenue": "105000"
+    },
+    {
+      "id": 12,
+      "month": "december 2021",
+      "revenue": "500000"
+    }
+  ]
+}
