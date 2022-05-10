@@ -54,7 +54,7 @@ const RevenueChart = () => {
                 5000, 15000, 50000, 55000, 59000, 65000, 75000, 85000, 95000,
                 99000, 105000, 500000,
               ],
-              backgroundColor: ["teal"],
+              backgroundColor: ["#2F9D99"],
               borderColor: ["black"],
               borderWidth: 1,
             },
