@@ -11,7 +11,7 @@ const RevenueChart = () => {
       console.log(revenue);
       setIsLoading(false);
     });
-  }, []);
+  });
   const options = {
     maintainAspectRatio: false,
     plugins: {
