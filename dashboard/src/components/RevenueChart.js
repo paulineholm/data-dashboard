@@ -3,13 +3,13 @@ import axios from "axios";
 import { Line } from "react-chartjs-2";
 import "chart.js/auto";
 const RevenueChart = () => {
-  const [isLoading, setIsLoading] = useState(true);
+  /*   const [isLoading, setIsLoading] = useState(true); */
   const [revenue, setRevenue] = useState();
   useEffect(() => {
     axios(`http://localhost:3000/monthlyrevenue`).then((response) => {
       setRevenue(response?.data);
       console.log(revenue);
-      setIsLoading(false);
+      /*     setIsLoading(false); */
     });
   });
   const options = {
@@ -26,9 +26,10 @@ const RevenueChart = () => {
       },
     },
   };
-  return isLoading ? (
+
+  /* isLoading ? (
     <p>Data is loading, please wait</p>
-  ) : (
+  ) :  */ return (
     <>
       <Line
         data={{
